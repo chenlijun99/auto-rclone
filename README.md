@@ -1,5 +1,10 @@
 # auto-rclone
 
+**Note**: There are a series of problems with this script that may lead to data-loss.
+A smarter algorithmn and a nicer GUI are necessary, but hardly doable with bash.
+Some more sophisticated language (like Python) would be more suitable.
+Let's see if I have time.
+
 Bash script to automate rclone syncing (from local to remote and vice versa).
 
 ## Behaviour
